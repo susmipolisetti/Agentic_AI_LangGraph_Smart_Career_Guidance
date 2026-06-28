@@ -1,0 +1,3 @@
+# Screenshots
+
+Project output screenshots will be added here.
