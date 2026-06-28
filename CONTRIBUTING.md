@@ -1,8 +1,13 @@
-# Contributing
+# Contributing Guide
 
-Contributions are welcome.
+Thank you for your interest in contributing.
 
-1. Fork the repository.
-2. Create a new branch.
+## Steps
+
+1. Fork this repository.
+2. Create a new feature branch.
 3. Commit your changes.
-4. Submit a Pull Request.
+4. Push to your branch.
+5. Create a Pull Request.
+
+Please follow clean coding practices and write meaningful commit messages.
